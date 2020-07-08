@@ -1,0 +1,100 @@
+Project: PROJECT_RB
+  Developer: Adrani Riadh
+  Company: Adrani Indies
+
+  Start of Project: February 2020
+  Log Starting Date: June 2020
+------------------------------------------------------------------------------------------------------------
+Version explanation : x.yzwu
+  x = development build
+      0 -> uncomplete
+      1 -> ready for public release
+      2 -> ...
+      3 -> ...
+
+      y = number of features added to the game, when updated, "u" and "w" will reset
+
+      w = number of major changes / bugfixes made in the current new feature, when updated, "u" will reset
+
+      u = number of minor changes (does not affect gameplay) made during the current "x.yw" version
+
+------------------------------------------------------------------------------------------------------------
+16 06 2020 - 0.6000a
+  - development is stopping
+  - added randomness to the length of the level
+  - added randomness to the frequency of the check point
+  - added randomness to the obstacle spawn chance
+
+------------------------------------------------------------------------------------------------------------
+15 06 2020 - 0.5321a
+  - removed load level button from the main menu as the option is scrapped out of the project
+  - balanced the new jumping mechanism, based on a timer
+  - added a new double jump mechanism to the new jumping mechanism
+  - introduced a new jumping mechanism V5
+
+------------------------------------------------------------------------------------------------------------
+13 06 2020 - 0.5206a
+  - added 6 more decorative assets
+  - improved how decoration is generated, addition of rotation randomness
+
+------------------------------------------------------------------------------------------------------------
+12 06 2020 - 0.5204a
+  - improved how decoration is generated, addition of scale randomness
+  - added more decoration levels, 1 (big and primary), 2 (medium & primary), 3 (small & secondary) 
+
+------------------------------------------------------------------------------------------------------------
+11 06 2020 - 0.5202a
+  - added more randomness to the generated decor
+
+------------------------------------------------------------------------------------------------------------
+10 06 2020 - 0.5201a
+  - improved the way the decor is generated
+
+------------------------------------------------------------------------------------------------------------
+08 06 2020 - 0.5200a
+  - altered the way in which the optimize function works to perform more precisely with less bugs, and the ability
+    to change the settings on the fly
+
+------------------------------------------------------------------------------------------------------------
+07 06 2020 - 0.5112a
+  - added notification when player reach a new check point.
+
+------------------------------------------------------------------------------------------------------------
+06 06 2020 - 0.5111a
+  - added Help in the main menu
+  - created a new system for menus in the main menu
+
+------------------------------------------------------------------------------------------------------------
+05 06 2020 - 0.5101a
+  - improved the look of some elements of the UI
+  - added Audio_System_V1
+
+------------------------------------------------------------------------------------------------------------
+03 06 2020 - 0.5032a
+  - improved time display @ UI
+  - balanced double jump v3
+  - introduced double jump v3
+  - Removed Dash mechanism
+
+------------------------------------------------------------------------------------------------------------
+02 06 2020 - 0.5020a
+  - added dash mechanic (not balanced)
+  - added a random factor for platform distance between each other
+  - improved loading distance
+  - removed double jump mechanism
+
+------------------------------------------------------------------------------------------------------------
+01 06 2020 - 0.5010a :
+  - nerfed the double jump mechanism by removing the Acceleration feature
+  - introduced the double jump mechanism
+
+------------------------------------------------------------------------------------------------------------
+06 2020 - 0.5000a :
+  - started logging changes
+  - first closed beta test
+      Testers (4):
+          + Adrani Khouloud
+          + Adrani Khaled
+          + Msadaa Mouhamed Koutaiba
+          + Ghorbel Mahdi
+  - basic game version 0.5a
